@@ -1,5 +1,8 @@
 # cs311_partyprediction
 AI / ML Party Prediction Program Written in Java
+Author: Aaron Ballesteros
+Course: Computer Science 311 - Artifical Intelligence
+Date: March 15, 2023
 
 
 # **About this Assignment**
