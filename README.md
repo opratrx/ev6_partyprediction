@@ -35,6 +35,3 @@ The goal is for the program to be able to guess the user's political party befor
 
 # **Program Preview**
 ![alt text](https://s10.gifyu.com/images/CleanShot-2023-03-22-at-04.47.37.gif)
-
-# **Data Visualization**
-![alt text](https://s2.gifyu.com/images/CleanShot-2023-03-22-at-04.53.38.gif)
