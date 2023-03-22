@@ -4,10 +4,10 @@ AI / ML Party Prediction Program Written in Java
 - Course: Computer Science 311 - Artificial Intelligence
 - Date: March 15, 2023
 - Changes Made:
-    >  Version 1: 
-    > "Initial Commit"
+    >  Version 1 **3/20/23**:  
+    > "Initial Commit" 
     >  
-    >  Version 2: 
+    >  Version 2 **3/22/23**: 
     > "UI Design / Added Dataset Data / Removed Datawaste / Added Bonus Question / Additional Comments + Code Cleanup"
 
 
