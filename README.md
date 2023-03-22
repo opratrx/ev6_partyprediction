@@ -11,7 +11,7 @@ AI / ML Party Prediction Program Written in Java
 
 
 # **Preview**
-![alt text](https://s10.gifyu.com/images/CleanShot-2023-03-22-at-04.36.28.gif)
+![alt text](http://s10.gifyu.com/images/CleanShot-2023-03-22-at-04.36.28.gif)
 
 # **About this Assignment**
 
