@@ -1,0 +1,207 @@
+## Raw data
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, open_borders, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, open_borders, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, some, low, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, privacy, open_borders, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, some, low, privacy, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, low, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, some, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, second_trimester, strict, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, strict, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, second_trimester, some, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, second_trimester, strict, medium, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, second_trimester, strict, medium, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, strict, low, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, second_trimester, strict, low, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, strict, low, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, second_trimester, strict, low, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, first_trimester, some, medium, privacy, family_based, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, second_trimester, strict, high, security, amnesty, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, none, some, medium, equality, merit_based, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, banned, strict, high, privacy, closed_borders, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, first_trimester, some, medium, security, family_based, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, second_trimester, strict, high, equality, amnesty, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, none, some, medium, privacy, merit_based, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, banned, strict, high, security, closed_borders, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, first_trimester, some, medium, equality, family_based, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, second_trimester, strict, high, privacy, amnesty, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, none, some, medium, security, merit_based, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, banned, strict, high, equality, closed_borders, federal_authority, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, low, equality, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, healthcare, none, strict, low, privacy, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, equality, merit_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, low, privacy, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, equality, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, privacy, merit_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, equality, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, healthcare, none, strict, low, privacy, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, none, strict, medium, equality, family_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, none, strict, low, equality, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, environment, none, strict, low, equality, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, merit_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, education, none, strict, low, equality, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, medium, privacy, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, healthcare, none, strict, low, equality, open_borders, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, privacy, merit_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, low, equality, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, none, strict, low, equality, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, medium, privacy, merit_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, healthcare, none, strict, low, equality, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, privacy, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, environment, none, strict, low, equality, amnesty, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, merit_based, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, education, none, strict, low, equality, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, none, strict, medium, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, low, equality, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, education, none, strict, medium, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, none, strict, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, low, equality, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, none, strict, medium, privacy, merit_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, open_borders, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, none, strict, medium, privacy, family_based, socialism, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, amnesty, mixed, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, merit_based, socialism, Democrat
+
+
+
+## If last multiple choice is added just in case to fulfill item #2
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, open_borders, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, open_borders, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, some, low, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, privacy, open_borders, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, some, low, privacy, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, low, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, some, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, second_trimester, strict, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, strict, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, second_trimester, some, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, second_trimester, strict, medium, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, second_trimester, strict, medium, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, first_trimester, strict, low, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, second_trimester, strict, low, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, first_trimester, strict, low, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, none, some, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, healthcare, second_trimester, strict, low, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, education, none, some, medium, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, first_trimester, some, medium, privacy, family_based, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, second_trimester, strict, high, security, amnesty, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, none, some, medium, equality, merit_based, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, banned, strict, high, privacy, closed_borders, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, first_trimester, some, medium, security, family_based, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, second_trimester, strict, high, equality, amnesty, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, none, some, medium, privacy, merit_based, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, banned, strict, high, security, closed_borders, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, first_trimester, some, medium, equality, family_based, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, environment, second_trimester, strict, high, privacy, amnesty, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, healthcare, none, some, medium, security, merit_based, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, no, yes, yes, no, no, education, banned, strict, high, equality, closed_borders, federal_authority, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, low, equality, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, healthcare, none, strict, low, privacy, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, equality, merit_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, low, privacy, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, equality, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, privacy, merit_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, equality, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, healthcare, none, strict, low, privacy, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, none, strict, medium, equality, family_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, none, strict, low, equality, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, environment, none, strict, low, equality, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, merit_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, education, none, strict, low, equality, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, medium, privacy, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, healthcare, none, strict, low, equality, open_borders, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, privacy, merit_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, low, equality, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, none, strict, low, equality, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, medium, privacy, merit_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, healthcare, none, strict, low, equality, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, medium, privacy, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, environment, none, strict, low, equality, amnesty, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, medium, privacy, merit_based, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, education, none, strict, low, equality, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, none, strict, medium, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, low, equality, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, education, none, strict, medium, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, healthcare, none, strict, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, healthcare, first_trimester, strict, low, equality, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, education, none, strict, medium, privacy, merit_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, open_borders, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, no, yes, yes, yes, no, no, no, healthcare, none, strict, medium, privacy, family_based, socialism, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, education, first_trimester, strict, low, equality, amnesty, mixed, a, Democrat
+yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, merit_based, socialism, a, Democrat

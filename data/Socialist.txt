@@ -1,0 +1,150 @@
+## Raw data
+no, no, no, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, none, some, high, security, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, merit_based, socialism, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, family_based, socialism, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, amnesty, socialism, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, open_borders, socialism, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, merit_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, family_based, socialism, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, amnesty, socialism, Socialist
+
+
+## If last multiple choice is added just in case to fulfill item #2
+no, no, no, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, none, some, high, security, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, medium, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, low, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, medium, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, low, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, some, medium, equality, family_based, socialism, c, Socialist
+yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, strict, low, equality, amnesty, socialism, c, Socialist
+yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, some, medium, equality, open_borders, socialism, c, Socialist
+yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, healthcare, none, strict, low, equality, merit_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, yes, education, second_trimester, some, medium, equality, family_based, socialism, c, Socialist
+yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, yes, yes, yes, yes, environment, first_trimester, strict, low, equality, amnesty, socialism, c, Socialist

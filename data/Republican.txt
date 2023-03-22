@@ -1,0 +1,176 @@
+## Raw data
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, first_trimester, some, high, security, closed_borders, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, first_trimester, some, high, security, closed_borders, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, high, security, closed_borders, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, high, security, closed_borders, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, low, security, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, medium, security, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, low, security, open_borders, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, low, security, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, medium, security, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, low, security, open_borders, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, low, security, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, medium, security, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, low, security, open_borders, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, medium, security, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, low, security, open_borders, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, low, security, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, medium, security, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, low, security, open_borders, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, low, security, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, medium, security, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, low, security, open_borders, mixed, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, low, security, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, education, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, healthcare, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, environment, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, education, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, healthcare, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, environment, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, education, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, healthcare, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, environment, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, education, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, healthcare, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, environment, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, education, third_trimester, some, high, individual, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, healthcare, second_trimester, some, medium, individual, family_based, mixed, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, yes, defense, first_trimester, some, high, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, defense, first_trimester, none, high, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, high, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, no, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, no, defense, first_trimester, none, high, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, healthcare, first_trimester, some, high, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, yes, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, no, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, no, defense, first_trimester, some, high, security, family_based, capitalism, Republican
+
+
+## If last multiple choice is added just in case to fulfill item #2
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, first_trimester, some, high, security, closed_borders, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, first_trimester, some, high, security, closed_borders, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, high, security, closed_borders, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, high, security, closed_borders, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, low, security, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, medium, security, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, low, security, open_borders, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, low, security, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, medium, security, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, low, security, open_borders, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, low, security, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, medium, security, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, low, security, open_borders, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, medium, security, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, low, security, open_borders, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, low, security, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, medium, security, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, low, security, open_borders, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, strict, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, some, low, security, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, strict, medium, security, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, healthcare, none, some, low, security, open_borders, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, education, second_trimester, strict, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, environment, first_trimester, some, low, security, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, education, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, healthcare, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, environment, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, education, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, healthcare, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, environment, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, education, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, healthcare, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, environment, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, education, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, healthcare, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, environment, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, education, third_trimester, some, high, individual, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, healthcare, second_trimester, some, medium, individual, family_based, mixed, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, low, freedom, amnesty, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, first_trimester, some, high, freedom, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, yes, no, no, no, yes, yes, yes, defense, none, some, medium, freedom, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, yes, defense, first_trimester, some, high, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, defense, first_trimester, none, high, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, high, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, no, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, no, defense, first_trimester, none, high, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, healthcare, first_trimester, some, high, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, yes, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, no, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, no, yes, yes, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, no, yes, defense, first_trimester, some, medium, security, merit_based, capitalism, b, Republican
+no, no, no, no, no, no, no, no, no, no, no, no, yes, yes, yes, no, defense, first_trimester, some, high, security, family_based, capitalism, b, Republican

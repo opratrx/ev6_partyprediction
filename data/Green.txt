@@ -1,0 +1,84 @@
+## Raw data
+yes, no, yes, no, yes, yes, yes, no, no, no, yes, no, no, no, yes, no, healthcare, second_trimester, strict, low, privacy, family_based, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, banned, some, low, equality, amnesty, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, none, strict, medium, privacy, merit_based, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, first_trimester, some, low, security, family_based, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, second_trimester, strict, medium, equality, closed_borders, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, none, strict, medium, security, open_borders, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, first_trimester, some, low, equality, amnesty, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, second_trimester, strict, medium, privacy, merit_based, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, some, low, security, family_based, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, none, strict, medium, equality, closed_borders, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, first_trimester, some, low, privacy, open_borders, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, second_trimester, strict, medium, security, amnesty, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, none, some, low, equality, merit_based, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, first_trimester, strict, medium, privacy, family_based, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, some, low, security, closed_borders, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, second_trimester, strict, medium, equality, open_borders, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, none, some, low, privacy, amnesty, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, first_trimester, strict, medium, security, merit_based, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, none, some, low, privacy, open_borders, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, strict, medium, security, amnesty, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, first_trimester, some, low, equality, merit_based, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, second_trimester, strict, medium, privacy, family_based, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, none, some, low, security, closed_borders, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, banned, strict, medium, equality, open_borders, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, banned, strict, medium, privacy, closed_borders, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, first_trimester, some, low, security, open_borders, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, banned, strict, medium, equality, closed_borders, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, second_trimester, some, low, privacy, open_borders, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, none, strict, medium, security, amnesty, mixed, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, banned, strict, medium, privacy, family_based, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, second_trimester, some, low, security, closed_borders, mixed, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, strict, medium, security, merit_based, mixed, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, second_trimester, some, low, equality, family_based, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, merit_based, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, family_based, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, open_borders, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, amnesty, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, low, equality, merit_based, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, family_based, mixed, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, merit_based, mixed, Green
+
+
+## If last multiple choice is added just in case to fulfill item #2
+yes, no, yes, no, yes, yes, yes, no, no, no, yes, no, no, no, yes, no, healthcare, second_trimester, strict, low, privacy, family_based, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, banned, some, low, equality, amnesty, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, none, strict, medium, privacy, merit_based, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, first_trimester, some, low, security, family_based, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, second_trimester, strict, medium, equality, closed_borders, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, none, strict, medium, security, open_borders, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, first_trimester, some, low, equality, amnesty, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, second_trimester, strict, medium, privacy, merit_based, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, some, low, security, family_based, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, none, strict, medium, equality, closed_borders, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, first_trimester, some, low, privacy, open_borders, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, second_trimester, strict, medium, security, amnesty, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, none, some, low, equality, merit_based, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, first_trimester, strict, medium, privacy, family_based, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, some, low, security, closed_borders, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, second_trimester, strict, medium, equality, open_borders, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, none, some, low, privacy, amnesty, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, first_trimester, strict, medium, security, merit_based, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, none, some, low, privacy, open_borders, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, strict, medium, security, amnesty, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, first_trimester, some, low, equality, merit_based, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, second_trimester, strict, medium, privacy, family_based, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, none, some, low, security, closed_borders, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, banned, strict, medium, equality, open_borders, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, banned, strict, medium, privacy, closed_borders, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, first_trimester, some, low, security, open_borders, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, banned, strict, medium, equality, closed_borders, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, second_trimester, some, low, privacy, open_borders, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, none, strict, medium, security, amnesty, mixed, d, Green
+yes, yes, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, environment, banned, strict, medium, privacy, family_based, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, second_trimester, some, low, security, closed_borders, mixed, d, Green
+yes, no, yes, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, healthcare, banned, strict, medium, security, merit_based, mixed, d, Green
+no, yes, no, yes, yes, yes, yes, yes, yes, no, yes, yes, yes, yes, no, no, education, second_trimester, some, low, equality, family_based, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, merit_based, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, family_based, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, open_borders, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, amnesty, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, low, equality, merit_based, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, first_trimester, strict, low, equality, family_based, mixed, d, Green
+yes, yes, yes, no, no, yes, yes, yes, yes, no, yes, yes, yes, no, no, no, environment, none, strict, medium, privacy, merit_based, mixed, d, Green

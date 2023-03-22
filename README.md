@@ -1,7 +1,7 @@
 # cs311_partyprediction
 AI / ML Party Prediction Program Written in Java
 - Author: Aaron Ballesteros
-- Course: Computer Science 311 - Artifical Intelligence
+- Course: Computer Science 311 - Artificial Intelligence
 - Date: March 15, 2023
 
 
@@ -23,8 +23,8 @@ The goal is for the program to be able to guess the user's political party befor
     > - B. Allow parents to use education funds for charter schools.
     > - C. Create welfare to work programs.
     > - D. Nothing.
-- [ ]  2. The last question should ask which political party they affiliate with. This way you will be able to gather and store data corresponding to the results you acquire. Create at least 4 political party storages.
-- [ ]  3. As you gain more data on each political party, you should have a way of storing this information to create a program that will use this data to accurately survey users and guess their political affiliations.
-- [ ]  4. Some answers to questions correspond with more than one political party. Find a way to make your program advanced enough so that it can weigh answers with differing levels of intensity depending on which parties they correspond best with.
+- [x]  2. The last question should ask which political party they affiliate with. This way you will be able to gather and store data corresponding to the results you acquire. Create at least 4 political party storages.
+- [x]  3. As you gain more data on each political party, you should have a way of storing this information to create a program that will use this data to accurately survey users and guess their political affiliations.
+- [x]  4. Some answers to questions correspond with more than one political party. Find a way to make your program advanced enough so that it can weigh answers with differing levels of intensity depending on which parties they correspond best with.
 - [x]  5. Overall, for this assignment you will prepare data storage files, obtain and store data through the usage of questions, and then write code using machine learning to create a survey that will accurately guess a user's political party before they complete the survey.
 - [x]  6. At the end of the assignment, you should submit a program that simply surveys a user and guesses their political party. The more advanced your program is, the faster and more accurately it will guess the user's political party affiliation.
