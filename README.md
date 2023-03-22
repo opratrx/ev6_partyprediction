@@ -10,8 +10,8 @@ AI / ML Party Prediction Program Written in Java
     >  "UI Design / Added Dataset Data / Removed Datawaste / Added Bonus Question / Additional Comments + Code Cleanup"
 
 
-# **Preview**
-![alt text](http://s10.gifyu.com/images/CleanShot-2023-03-22-at-04.36.28.gif)
+# **Program Preview**
+![alt text](https://s2.gifyu.com/images/CleanShot-2023-03-22-at-04.41.08.gif)
 
 # **About this Assignment**
 
