@@ -1,5 +1,4 @@
 # AI Survey Program
----
 AI / ML Party Prediction Program Written in Java
 - Author: Aaron Ballesteros
 - Course: Computer Science 311 - Artificial Intelligence
@@ -10,13 +9,7 @@ AI / ML Party Prediction Program Written in Java
     >  Version 2 - **3/22/23**: 
     >  "UI Design / Added Dataset Data / Removed Datawaste / Added Bonus Question / Additional Comments + Code Cleanup"
 
-
-# **Program Preview**
----
-![alt text](https://s10.gifyu.com/images/CleanShot-2023-03-22-at-04.47.37.gif)
-
 # **About this Assignment**
----
 Data mining is used by everyone who wants to learn more about their customers or members. It helps people make decisions about what to sell or what to promote. This assignment is to write a program using machine learning that will try to determine the political leaning of the user based on a survey.
 
 You will be tasked to write this program in either C++ or Java, whichever you feel more comfortable with.
@@ -38,3 +31,7 @@ The goal is for the program to be able to guess the user's political party befor
 - [x]  4. Some answers to questions correspond with more than one political party. Find a way to make your program advanced enough so that it can weigh answers with differing levels of intensity depending on which parties they correspond best with.
 - [x]  5. Overall, for this assignment you will prepare data storage files, obtain and store data through the usage of questions, and then write code using machine learning to create a survey that will accurately guess a user's political party before they complete the survey.
 - [x]  6. At the end of the assignment, you should submit a program that simply surveys a user and guesses their political party. The more advanced your program is, the faster and more accurately it will guess the user's political party affiliation.
+
+
+# **Program Preview**
+![alt text](https://s10.gifyu.com/images/CleanShot-2023-03-22-at-04.47.37.gif)
