@@ -6,12 +6,15 @@ AI / ML Party Prediction Program Written in Java
 - Changes Made:
     >  Version 1 - **3/20/23**: 
     >   -   "Initial Commit" 
-    >  
+    >
+    >
     >  Version 2 - **3/22/23**: 
     >   -   "UI Design / Added Dataset Data / Removed Datawaste / Added Bonus Question / Additional Comments + Code Cleanup"
     >
+    >
     >  Version 3 - **3/22/23**:
     >   -   "Added data storages, CSV Reading / Writing"
+    >   
 
 # **About this Assignment**
 Data mining is used by everyone who wants to learn more about their customers or members. It helps people make decisions about what to sell or what to promote. This assignment is to write a program using machine learning that will try to determine the political leaning of the user based on a survey.
