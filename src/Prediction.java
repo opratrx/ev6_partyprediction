@@ -15,15 +15,36 @@ import weka.core.DenseInstance;
 import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.converters.ConverterUtils.DataSource;
+
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import static java.text.MessageFormat.format;
 
 public class Prediction {
+
+    // Method to Append Data to CSV
+    public static void appendToCSV(String fileName, String data) {
+        try {
+            Path path = Paths.get(fileName);
+            if (!Files.exists(path)) {
+                Files.createFile(path);
+            }
+            Files.write(path, data.getBytes(), StandardOpenOption.APPEND);
+        } catch (IOException e) {
+            System.err.println(RED + "Error writing to file: " + e.getMessage());
+        }
+    }
 
     // Defining color values for GUI
     private static final String RED, REDBG, REDBU, GREEN, GREENBU, YELLOW, YELLOWBU, YELLOWBG, GRAY, BLUEBG, CYANBG, CYANBU, CYAN, RESET;
@@ -104,11 +125,29 @@ public class Prediction {
         Instances data = dataSource.getDataSet();
         data.setClassIndex(data.numAttributes() - 1);
 
-
+        /* Prompt IV: Some answers to questions correspond with more than one political party.
+         * Find a way to make your program advanced enough so that it can weigh answers with
+         * differing levels of intensity depending on which parties they correspond best with.
+         ------------------------------------------------------------------------------------ */
         // Train the decision tree model
         Classifier classifier = new J48();
         classifier.buildClassifier(data);
 
+        // Set up the CSV files
+        /* Prompt 2: Create at least 4 political party storages.
+         * This way you will be able to gather and store data corresponding to the results you acquire.
+         */
+        String democratCsvFileName = "./data/csv/democrat_user_input.csv";
+        String republicanCsvFileName = "./data/csv/republican_user_input.csv";
+        String libertarianCsvFileName = "./data/csv/libertarian_user_input.csv";
+        String greenCsvFileName = "./data/csv/green_user_input.csv";
+        String socialistCsvFileName = "./data/csv/socialist_user_input.csv";
+        String independentCsvFileName = "./data/csv/independent_user_input.csv";
+        String noneCsvFileName = "./data/csv/none_user_input.csv";
+
+
+        // Create a StringBuilder object to hold user answers
+        StringBuilder userAnswers = new StringBuilder();
 
         // Prepare attributes for user input
         ArrayList<Attribute> attributes = new ArrayList<>();
@@ -131,8 +170,8 @@ public class Prediction {
 
 
 
-
-        /*  Survey Question Bank
+        /* Prompt 1: You should begin by presenting the user with questions
+         * that contain answer options that differ based on their political beliefs.
          * -------------------------------------------------------------------------------------------------
          *  This is a question bank to store all the questions that the user will be asked.
          *  These questions are then used to determine if the user is a member of the party or not.
@@ -279,6 +318,7 @@ public class Prediction {
                     System.out.print(GREENBU + "\t\t\t[Answer]" + RESET + ": ");
                 }
             }
+            userAnswers.append(answer).append(",");
             userInput.setValue(attributes.get(i), answer);
 
 
@@ -354,8 +394,10 @@ public class Prediction {
 
 
 
-
         // End of Survey - Bonus Question
+        /* Prompt 2: The last question should ask which political party they affiliate with.
+         * This way you will be able to gather and store data corresponding to the results you acquire.
+         */
         System.out.println(GREEN + "------------------------------------------------------------------------------------------------------" + RESET);
         System.out.println("\n✅ Bonus Question " + GREEN + "1 of 1" + RESET);
         System.out.println(YELLOW + "\n\t＞ What is your political party affiliation? " + RESET);
@@ -380,6 +422,27 @@ public class Prediction {
             }
         }
 
+
+        // Append the user's political party and a newline character to complete the CSV row
+        userAnswers.append(userParty).append("\n");
+
+
+        // Write the user's answers to the appropriate CSV file based on their party
+        /* Prompt 3: As you gain more data on each political party,
+         * you should have a way of storing this information to create a program
+         * that will use this data to accurately survey users and guess their political affiliations.
+         */
+        switch (userParty) {
+            case "democrat" -> appendToCSV(democratCsvFileName, userAnswers.toString());
+            case "republican" -> appendToCSV(republicanCsvFileName, userAnswers.toString());
+            case "libertarian" -> appendToCSV(libertarianCsvFileName, userAnswers.toString());
+            case "green" -> appendToCSV(greenCsvFileName, userAnswers.toString());
+            case "independent" -> appendToCSV(independentCsvFileName, userAnswers.toString());
+            case "socialist" -> appendToCSV(socialistCsvFileName, userAnswers.toString());
+            case "none" -> appendToCSV(noneCsvFileName, userAnswers.toString());
+            default -> {}
+            // Handle other parties, if necessary
+        }
 
 
 
