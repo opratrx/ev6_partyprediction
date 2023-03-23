@@ -11,7 +11,8 @@ AI / ML Party Prediction Program Written in Java
    >
    >  Version 2 - **3/22/23**: 
    >   -   "UI Design / Added Dataset Data / Removed Datawaste / Added Bonus Question / Additional Comments + Code Cleanup"
-   >   ---    >
+   >   ---    
+   >   
    >  Version 3 - **3/22/23**:
    >   -   "Added data storages, CSV Reading / Writing"
    >   ---
