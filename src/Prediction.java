@@ -23,8 +23,6 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -251,7 +249,7 @@ public class Prediction {
                 "\n\t\t◃ The prediction is a " + YELLOW + "general idea" + GREEN + " of what party you belong to." +
                 "\n\t\t◃ If the confidence reaches " + REDBU + "90% or more" + GREEN + ", the survey will end." +
                 "\n\t\t◃ Left Wing:  " + BLUEBG + " Democratic, Green, Socialist " + GREEN +
-                "\n\t\t◃ Right Wing: " + REDBG + " Republican, Libertarian Party " + GREEN +
+                "\n\t\t◃ Right Wing: " + REDBG + " Republican, Constitutional " + GREEN +
                 "\n\t\t◃ Middle: " + YELLOWBG + " Libertarian Party " + GREEN + "\n");
 
         System.out.println(GREEN + "┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n");
@@ -318,7 +316,7 @@ public class Prediction {
                     System.out.print(GREENBU + "\t\t\t[Answer]" + RESET + ": ");
                 }
             }
-            userAnswers.append(answer).append(",");
+            userAnswers.append(answer).append(", ");
             userInput.setValue(attributes.get(i), answer);
 
 
