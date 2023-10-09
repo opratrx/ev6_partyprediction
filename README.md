@@ -102,7 +102,8 @@ public void appendToCSV(String fileName, String data) {
 
 ## Visuals
 ### Program Preview
-![](https://github.com/opratrx/ev6_partyprediction/blob/master/images/CleanShot%202023-03-22%20at%2005.05.09.gif)
+![](https://github.com/opratrx/ev6_partyprediction/blob/master/images/CleanShot%202023-10-08%20at%2022.02.19.gif)
+
 
 ### Data Visualization
 ![](https://github.com/opratrx/ev6_partyprediction/blob/master/images/CleanShot%202023-10-08%20at%2021.57.23.gif)
