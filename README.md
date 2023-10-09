@@ -1,4 +1,4 @@
-# AI Survey Program
+# AI Survey Program &nbsp; ![Header](https://img.shields.io/badge/-Project-ff6600)
 AI / ML Party Prediction Program Written in Java
 - Author: Aaron Ballesteros
 - Course: Computer Science 311 - Artificial Intelligence
