@@ -105,7 +105,7 @@ public void appendToCSV(String fileName, String data) {
 ![](https://github.com/opratrx/ev6_partyprediction/blob/master/images/CleanShot%202023-03-22%20at%2005.05.09.gif)
 
 ### Data Visualization
-![](https://github.com/opratrx/ev6_partyprediction/blob/master/images/CleanShot%202023-03-22%20at%2004.53.38.gif)
+![](https://github.com/opratrx/ev6_partyprediction/blob/master/images/CleanShot%202023-10-08%20at%2021.57.23.gif)
 
 ## Version History
 - **Version 1 (3/20/23)**: Initial Commit.
